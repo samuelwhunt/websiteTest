@@ -1,0 +1,13 @@
+:root {
+	--titleWeight: 2px;
+}
+
+body {
+	background: rgb(10, 20, 30);
+}
+
+.title {
+	margin-left: 10px;
+	margin-top: 15px;
+	font-weight: var(--titleWeight);
+}
